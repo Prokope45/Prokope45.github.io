@@ -1,22 +1,29 @@
-## Jared Paubel
+🌐 [Website Portfolio](www.jpaubel.tech) 
+🤝 [LinkedIn](www.linkedin.com/in/jared-paubel) 
+📧 [Email](mailto: jpaubel.pm.me)
 
-[Website Portfolio](www.jpaubel.tech) [LinkedIn](www.linkedin.com/in/jared-paubel) [Email](mailto: jpaubel.pm.me)
-
+---
 ### About Me
 
 A Kansan, U.S. Marine Veteran, and aspiring technologist who is studying for an associate's in Software Development at Butler Community College. The desire to learn is a key foundational attribute needed anywhere in life, and I will continue this progression by pursuing a Bachelor's in Machine Learning & Autonomous Systems at Kansas State University. While at K-State, I will study data analysis, machine learning, and statistical patterns and analyses, as well as gain more experience working as a part-time software engineer contractor with NetApp. On my own time, I enjoy reading books on the topics of psychology, philosophy, and technology. I also apply new information technology methods into my everyday practice as a developer.
 
+---
 ### My Projects
 My typical projects involve web-applications and back-end development. Most of my programming experience is with Python, as I have been programming with Python for about 3 years. I am currently certified as a Python Entry-Level Programmer with Python Institute, which will be superceded by the Python Associate Programmer once I complete that certification. From time to time I do program in C++ and Java depending on what project I work on.
 
- [django-tech-blog](https://github.com/JaredP45/django-tech-blog) | [java-email-validator](https://github.com/JaredP45/java-email-validator)
+[django-tech-blog](https://github.com/JaredP45/django-tech-blog) | [java-email-validator](https://github.com/JaredP45/java-email-validator)
 [python-stock-analysis](https://github.com/JaredP45/python-stock-analysis) | [java-phone-log](https://github.com/JaredP45/PhoneLog)
-[guess-the-number](https://github.com/JaredP45/GuessTheNumber) | [C-Dungeon-Game](https://github.com/JaredP45/C-Dungeon-Game)
+[guess-the-number](https://github.com/JaredP45/GuessTheNumber) | [C++-Dungeon-Game](https://github.com/JaredP45/C-Dungeon-Game)
 [python-book-log](https://github.com/JaredP45/python-book-log) | 
 
+---
 ### Education & Coursework
-| **Butler Community College - AAS Software Development**                                                |
-| ------------------------------------------------------------------------------------------------------ |
+** Kansas State University - BS Machine Learning & Autonomous Systems **
+| Info                  |
+| --------------------- |
+| * Beginning Fall 2022 |
+
+**Butler Community College - AAS Software Development**                                                
 | Info                                | Coursework                                                       |
 | ----------------------------------- | ---------------------------------------------------------------- |
 | * Graduating May 2022               | * Advanced Python with Machine Learning * AWS Cloud Fundamentals |    
@@ -25,9 +32,7 @@ My typical projects involve web-applications and back-end development. Most of m
 | * Made President's Honor Roll twice | * Intro to Java Programming * Mobile App Development             |                 
 |                                     | * Intro to C# Programming * C++ Game Programming                 |
 
-  * Kansas State University - BS Machine Learning & Autonomous Systems
-    * Beginning Fall 2022
-
+---
 **Certifications**
  * [[CPE-20-01] CPE – C++ Certified Entry-Level Programmer](https://www.credly.com/badges/94859d8c-526e-4dc5-b87e-c8e5264fbcab/public_url)
  * [[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer](https://www.credly.com/badges/b6f4ae2b-4f9a-4ff8-a4e0-2eab2e9db4ff?source=linked_in_profile)
