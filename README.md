@@ -13,26 +13,26 @@ A Kansan, U.S. Marine Veteran, and aspiring technologist who is studying for an 
 ### My Projects
 My typical projects involve web-applications and back-end development. Most of my programming experience is with Python, as I have been programming with Python for about 3 years. I am currently certified as a Python Entry-Level Programmer with Python Institute, which will be superceded by the Python Associate Programmer once I complete that certification. From time to time I do program in C++ and Java depending on what project I work on.
 
-[django-tech-blog](https://github.com/JaredP45/django-tech-blog) | [java-email-validator](https://github.com/JaredP45/java-email-validator)
-[python-stock-analysis](https://github.com/JaredP45/python-stock-analysis) | [java-phone-log](https://github.com/JaredP45/PhoneLog)
-[guess-the-number](https://github.com/JaredP45/GuessTheNumber) | [C++-Dungeon-Game](https://github.com/JaredP45/C-Dungeon-Game)
-[python-book-log](https://github.com/JaredP45/python-book-log) | 
+:[django-tech-blog](https://github.com/JaredP45/django-tech-blog)           | :[java-email-validator](https://github.com/JaredP45/java-email-validator)
+:[python-stock-analysis](https://github.com/JaredP45/python-stock-analysis) | :[java-phone-log](https://github.com/JaredP45/PhoneLog)
+:[guess-the-number](https://github.com/JaredP45/GuessTheNumber)             | :[C++-Dungeon-Game](https://github.com/JaredP45/C-Dungeon-Game)
+:[python-book-log](https://github.com/JaredP45/python-book-log)             | 
 
 ---
 ### Education & Coursework
 ** Kansas State University - BS Machine Learning & Autonomous Systems **
-| Info                  |
+| :Info:                |
 | --------------------- |
 | * Beginning Fall 2022 |
 
 
 **Butler Community College - AAS Software Development**                                                
-| Info                                | Coursework                                                       
+| :Info:                              | :Coursework:                                                          |
 | ----------------------------------- | --------------------------------------------------------------------- |
-| * Graduating May 2022               | * Advanced Python with Machine Learning    | * AWS Cloud Fundamentals |   
-| * GPA 3.9                           | * Python with Data Science                 | * Intro to SQL           |      
-| * Member of Phi Theta Kappa         | * Artificial Intelligence Game Programming | * PHP and Databases      |  
-| * Made President's Honor Roll twice | * Intro to Java Programming                | * Mobile App Development |                 
+| * Graduating May 2022               | * Advanced Python with Machine Learning    | * AWS Cloud Fundamentals |
+| * GPA 3.9                           | * Python with Data Science                 | * Intro to SQL           |
+| * Member of Phi Theta Kappa         | * Artificial Intelligence Game Programming | * PHP and Databases      |
+| * Made President's Honor Roll twice | * Intro to Java Programming                | * Mobile App Development |
 |                                     | * Intro to C# Programming                  | * C++ Game Programming   |
 
 ---
