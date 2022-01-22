@@ -39,7 +39,6 @@ My typical projects involve web-applications and back-end development. Most of m
 |  <li>Made President's Honor Roll twice</li> |  <li>Intro to SQL</li>                             |  <li>Intro to C# Programming</li>   |
 | </ul>                                       |  <li>Artificial Intelligence Game Programming</li> |  <li>C++ Game Programming</li>      |
 |                                             | </ul>                                              | </ul>                               |
-  
 
 ---
 **Certifications**
