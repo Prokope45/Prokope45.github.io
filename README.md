@@ -13,27 +13,36 @@ A Kansan, U.S. Marine Veteran, and aspiring technologist who is studying for an 
 ### My Projects
 My typical projects involve web-applications and back-end development. Most of my programming experience is with Python, as I have been programming with Python for about 3 years. I am currently certified as a Python Entry-Level Programmer with Python Institute, which will be superceded by the Python Associate Programmer once I complete that certification. From time to time I do program in C++ and Java depending on what project I work on.
 
-:[django-tech-blog](https://github.com/JaredP45/django-tech-blog)           | :[java-email-validator](https://github.com/JaredP45/java-email-validator)
-:[python-stock-analysis](https://github.com/JaredP45/python-stock-analysis) | :[java-phone-log](https://github.com/JaredP45/PhoneLog)
-:[guess-the-number](https://github.com/JaredP45/GuessTheNumber)             | :[C++-Dungeon-Game](https://github.com/JaredP45/C-Dungeon-Game)
-:[python-book-log](https://github.com/JaredP45/python-book-log)             | 
+[django-tech-blog](https://github.com/JaredP45/django-tech-blog)           | [java-email-validator](https://github.com/JaredP45/java-email-validator)
+[python-stock-analysis](https://github.com/JaredP45/python-stock-analysis) | [java-phone-log](https://github.com/JaredP45/PhoneLog)
+[guess-the-number](https://github.com/JaredP45/GuessTheNumber)             | [C++-Dungeon-Game](https://github.com/JaredP45/C-Dungeon-Game)
+[python-book-log](https://github.com/JaredP45/python-book-log)             | 
 
 ---
 ### Education & Coursework
 ** Kansas State University - BS Machine Learning & Autonomous Systems **
-| :Info:                |
-| --------------------- |
-| * Beginning Fall 2022 |
+| Info                          |
+| ----------------------------- |
+| <ul>                          |
+|  <li>Beginning Fall 2022</li> |
+| </ul>                         |
 
-
+---
 **Butler Community College - AAS Software Development**                                                
-| :Info:                              | :Coursework:                                                          |
-| ----------------------------------- | --------------------------------------------------------------------- |
-| * Graduating May 2022               | * Advanced Python with Machine Learning    | * AWS Cloud Fundamentals |
-| * GPA 3.9                           | * Python with Data Science                 | * Intro to SQL           |
-| * Member of Phi Theta Kappa         | * Artificial Intelligence Game Programming | * PHP and Databases      |
-| * Made President's Honor Roll twice | * Intro to Java Programming                | * Mobile App Development |
-|                                     | * Intro to C# Programming                  | * C++ Game Programming   |
+| Info                                        | Coursework                                         |
+| ------------------------------------------- | -------------------------------------------------- |
+| <ul>                                        | <ul>                                               |
+|  <lil> Graduating May 2022</li>             |  <li>Advanced Python with Machine Learning</li>    |
+|  <li>GPA 3.9</li>                           |  <li>Python with Data Science</li>                 |
+|  <li>Member of Phi Theta Kappa</li>         |  <li>Artificial Intelligence Game Programming</li> |
+|  <li>Made President's Honor Roll twice</li> |  <li>Intro to Java Programming</li>                |
+| </ul>                                       |  <li>Intro to C# Programming</li>                  |
+|                                             |  <li>AWS Cloud Fundamentals</li>                   |
+|                                             |  <li>Intro to SQL</li>                             |
+|                                             |  <li>PHP and Databases</li>                        |
+|                                             |  <li>Mobile App Development</li>                   |
+|                                             |  <li>C++ Game Programming</li>                     |
+|                                             | </ul>                                              |
 
 ---
 **Certifications**
