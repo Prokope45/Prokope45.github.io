@@ -21,7 +21,7 @@ My typical projects involve web-applications and back-end development. Most of m
 ---
 ### Education & Coursework
 
-** Kansas State University - BS Machine Learning & Autonomous Systems **
+**Kansas State University - BS Machine Learning & Autonomous Systems**
 
 | Info                          |
 | :---------------------------- |
