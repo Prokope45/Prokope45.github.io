@@ -1,5 +1,5 @@
-🌐 [Website Portfolio](www.jpaubel.tech) 
-🤝 [LinkedIn](www.linkedin.com/in/jared-paubel) 
+🌐 [Website Portfolio](https://www.jpaubel.tech) 
+🤝 [LinkedIn](https://www.linkedin.com/in/jared-paubel) 
 📧 [Email](mailto: jpaubel.pm.me)
 
 ---
