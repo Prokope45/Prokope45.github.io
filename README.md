@@ -20,6 +20,7 @@ My typical projects involve web-applications and back-end development. Most of m
 
 ---
 ### Education & Coursework
+
 ** Kansas State University - BS Machine Learning & Autonomous Systems **
 | Info                          |
 | ----------------------------- |
@@ -28,7 +29,8 @@ My typical projects involve web-applications and back-end development. Most of m
 | </ul>                         |
 
 ---
-**Butler Community College - AAS Software Development**                                                
+**Butler Community College - AAS Software Development**
+
 | Info                                        | Coursework                                         |
 | ------------------------------------------- | -------------------------------------------------- |
 | <ul>                                        | <ul>                                               |
