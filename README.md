@@ -28,12 +28,12 @@ My typical projects involve web-applications and back-end development. Most of m
 
 **Butler Community College - AAS Software Development**                                                
 | Info                                | Coursework                                                       
-| ----------------------------------- | ---------------------------------------------------------------- |
-| * Graduating May 2022               | * Advanced Python with Machine Learning * AWS Cloud Fundamentals |    
-| * GPA 3.9                           | * Python with Data Science * Intro to SQL                        |                  
-| * Member of Phi Theta Kappa         | * Artificial Intelligence Game Programming * PHP and Databases   |  
-| * Made President's Honor Roll twice | * Intro to Java Programming * Mobile App Development             |                 
-|                                     | * Intro to C# Programming * C++ Game Programming                 |
+| ----------------------------------- | --------------------------------------------------------------------- |
+| * Graduating May 2022               | * Advanced Python with Machine Learning    | * AWS Cloud Fundamentals |   
+| * GPA 3.9                           | * Python with Data Science                 | * Intro to SQL           |      
+| * Member of Phi Theta Kappa         | * Artificial Intelligence Game Programming | * PHP and Databases      |  
+| * Made President's Honor Roll twice | * Intro to Java Programming                | * Mobile App Development |                 
+|                                     | * Intro to C# Programming                  | * C++ Game Programming   |
 
 ---
 **Certifications**
