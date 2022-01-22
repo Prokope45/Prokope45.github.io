@@ -34,7 +34,7 @@ My typical projects involve web-applications and back-end development. Most of m
 | :------------------------------------------ | :--------------------------------------------------------------------------------------- |
 | <ul>                                        | <ul>                                                 <ul>                                |
 |  <li>Graduating May 2022</li>               |  <li>Advanced Python with Machine Learning</li>       <li>PHP and Databases</li>         |
-|  <li>GPA 3.9</li><li>GPA 3.9</li>           |  <li>AWS Cloud Fundamentals</li>                      <li>Intro to Java Programming</li> |
+|  <li>GPA 3.9</li>                           |  <li>AWS Cloud Fundamentals</li>                      <li>Intro to Java Programming</li> |
 |  <li>Member of Phi Theta Kappa</li>         |  <li>Python with Data Science</li>                    <li>Mobile App Development</li>    |
 |  <li>Made President's Honor Roll twice</li> |  <li>Intro to SQL</li>                                <li>Intro to C# Programming</li>   |
 | </ul>                                       |  <li>Artificial Intelligence Game Programming</li>    <li>C++ Game Programming</li>      |
