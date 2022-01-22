@@ -1,3 +1,5 @@
+**Jared Paubel**
+
 🌐 [Website Portfolio](https://www.jpaubel.tech) 
 🤝 [LinkedIn](https://www.linkedin.com/in/jared-paubel) 
 📧 [Email](mailto: jpaubel.pm.me)
@@ -23,8 +25,9 @@ My typical projects involve web-applications and back-end development. Most of m
 | --------------------- |
 | * Beginning Fall 2022 |
 
+
 **Butler Community College - AAS Software Development**                                                
-| Info                                | Coursework                                                       |
+| Info                                | Coursework                                                       
 | ----------------------------------- | ---------------------------------------------------------------- |
 | * Graduating May 2022               | * Advanced Python with Machine Learning * AWS Cloud Fundamentals |    
 | * GPA 3.9                           | * Python with Data Science * Intro to SQL                        |                  
