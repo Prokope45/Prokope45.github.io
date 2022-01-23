@@ -2,7 +2,7 @@
 
 🌐 [Website Portfolio](https://www.jpaubel.tech) 
 🤝 [LinkedIn](https://www.linkedin.com/in/jared-paubel) 
-📧 [Email](mailto: jpaubel@pm.me)
+📧 [My Email](mailto:jpaubel@pm.me)
 
 ---
 ### About Me
