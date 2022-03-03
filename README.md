@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Jared Paubel
 
 -> [🌐 Website Portfolio](https://www.jpaubel.tech) [🤝 LinkedIn](https://www.linkedin.com/in/jared-paubel) [📧 My Email](mailto:jpaubel@pm.me) <-
