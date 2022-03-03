@@ -13,10 +13,10 @@ My typical projects involve web-applications and back-end development. Most of m
 
 | Projects                                                                   |                                                                          |
 | __________________________________________________________________________ | ________________________________________________________________________ |
-| [django-tech-blog](https://github.com/JaredP45/django-tech-blog)           | [java-email-validator](https://github.com/JaredP45/java-email-validator) |
-| [python-stock-analysis](https://github.com/JaredP45/python-stock-analysis) | [java-phone-log](https://github.com/JaredP45/PhoneLog)                   |
-| [guess-the-number](https://github.com/JaredP45/GuessTheNumber)             | [C++-Dungeon-Game](https://github.com/JaredP45/C-Dungeon-Game)           |
-| [python-book-log](https://github.com/JaredP45/python-book-log)             |                                                                          |
+| <ul><li>[django-tech-blog](https://github.com/JaredP45/django-tech-blog)</li> | <ul><li>[java-email-validator](https://github.com/JaredP45/java-email-validator)</li> |
+| <li>[python-stock-analysis](https://github.com/JaredP45/python-stock-analysis)</li> | <li>[java-phone-log](https://github.com/JaredP45/PhoneLog)</li> |
+| <li>[guess-the-number](https://github.com/JaredP45/GuessTheNumber)</li> | <li>[C++-Dungeon-Game](https://github.com/JaredP45/C-Dungeon-Game)</li></ul> |
+| <li>[python-book-log](https://github.com/JaredP45/python-book-log)</li></ul> |                                                                          
 
 ---
 ## Education & Coursework
