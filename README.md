@@ -11,7 +11,7 @@ A Kansan, U.S. Marine Veteran, programming aficionado, and student at Butler Com
 ## My Projects
 My typical projects involve web-applications and back-end development. Most of my programming experience is with Python, as I have been programming with Python for about 3 years. I am currently certified as a Python Entry-Level Programmer with Python Institute, which will be superceded by the Python Associate Programmer once I complete that certification. From time to time I do program in C++ and Java depending on what project I work on.
 
-                                                                             
+| Projects                                                                   |                                                                          |
 | __________________________________________________________________________ | ________________________________________________________________________ |
 | [django-tech-blog](https://github.com/JaredP45/django-tech-blog)           | [java-email-validator](https://github.com/JaredP45/java-email-validator) |
 | [python-stock-analysis](https://github.com/JaredP45/python-stock-analysis) | [java-phone-log](https://github.com/JaredP45/PhoneLog)                   |
