@@ -4,18 +4,19 @@ layout: default
 
 # Jared Paubel
 
-->[🌐 Website Portfolio](https://www.jpaubel.tech) [🤝 LinkedIn](https://www.linkedin.com/in/jared-paubel) [📧 My Email](mailto:jpaubel@pm.me)<-
+-> [🌐 Website Portfolio](https://www.jpaubel.tech) [🤝 LinkedIn](https://www.linkedin.com/in/jared-paubel) [📧 My Email](mailto:jpaubel@pm.me) <-
 
 ---
 ## About Me
 
-A Kansan, U.S. Marine Veteran, and aspiring technologist who is studying for an associate's in Software Development at Butler Community College. The desire to learn is a key foundational attribute needed anywhere in life, and I will continue this progression by pursuing a Bachelor's in Machine Learning & Autonomous Systems at Kansas State University. While at K-State, I will study data analysis, machine learning, and statistical patterns and analyses, as well as gain more experience working as a part-time software engineer contractor with NetApp. On my own time, I enjoy reading books on the topics of psychology, philosophy, and technology. I also apply new information technology methods into my everyday practice as a developer.
+A Kansan, U.S. Marine Veteran, programming aficionado, and student at Butler Community College studying for an associate's in Software Development. After community college, I plan to pursue a Bachelor's in Machine Learning & Autonomous Systems at Kansas State University. While at K-State, I will study data analysis, machine learning, and statistics, as well as gain more experience working as a part-time software engineer contractor with NetApp. On my own time, I enjoy reading books on the topics of psychology, philosophy, and technology, spending time with family, and traveling if I'm able to. I also program as a hobby, so whatever I learn gets added into my daily software development practice.
 
 ---
 ## My Projects
 My typical projects involve web-applications and back-end development. Most of my programming experience is with Python, as I have been programming with Python for about 3 years. I am currently certified as a Python Entry-Level Programmer with Python Institute, which will be superceded by the Python Associate Programmer once I complete that certification. From time to time I do program in C++ and Java depending on what project I work on.
 
-_____________________________________________________________________________-___________________________________________________________________________
+                                                                             
+| __________________________________________________________________________ | ________________________________________________________________________ |
 | [django-tech-blog](https://github.com/JaredP45/django-tech-blog)           | [java-email-validator](https://github.com/JaredP45/java-email-validator) |
 | [python-stock-analysis](https://github.com/JaredP45/python-stock-analysis) | [java-phone-log](https://github.com/JaredP45/PhoneLog)                   |
 | [guess-the-number](https://github.com/JaredP45/GuessTheNumber)             | [C++-Dungeon-Game](https://github.com/JaredP45/C-Dungeon-Game)           |
