@@ -11,12 +11,15 @@ A Kansan, U.S. Marine Veteran, programming aficionado, and student at Butler Com
 ## My Projects
 My typical projects involve web-applications and back-end development. Most of my programming experience is with Python, as I have been programming with Python for about 3 years. I am currently certified as a Python Entry-Level Programmer with Python Institute, which will be superceded by the Python Associate Programmer once I complete that certification. From time to time I do program in C++ and Java depending on what project I work on.
 
-| Projects                                                                   |                                                                          |
-| __________________________________________________________________________ | ________________________________________________________________________ |
-| <ul><li>[django-tech-blog](https://github.com/JaredP45/django-tech-blog)</li> | <ul><li>[java-email-validator](https://github.com/JaredP45/java-email-validator)</li> |
-| <li>[python-stock-analysis](https://github.com/JaredP45/python-stock-analysis)</li> | <li>[java-phone-log](https://github.com/JaredP45/PhoneLog)</li> |
-| <li>[guess-the-number](https://github.com/JaredP45/GuessTheNumber)</li> | <li>[C++-Dungeon-Game](https://github.com/JaredP45/C-Dungeon-Game)</li></ul> |
-| <li>[python-book-log](https://github.com/JaredP45/python-book-log)</li></ul> |                                                                          
+<ul>
+  <li>[django-tech-blog](https://github.com/JaredP45/django-tech-blog)</li>
+  <li>[java-email-validator](https://github.com/JaredP45/java-email-validator)</li>
+  <li>[python-stock-analysis](https://github.com/JaredP45/python-stock-analysis)</li>
+  <li>[java-phone-log](https://github.com/JaredP45/PhoneLog)</li>
+  <li>[guess-the-number](https://github.com/JaredP45/GuessTheNumber)</li>
+  <li>[C++-Dungeon-Game](https://github.com/JaredP45/C-Dungeon-Game)</li>
+  <li>[python-book-log](https://github.com/JaredP45/python-book-log)</li>
+</ul>                                                                         
 
 ---
 ## Education & Coursework
