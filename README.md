@@ -1,11 +1,11 @@
 # Jared Paubel
 
-[🌐 Website Portfolio](https://www.jpaubel.tech) [🤝 LinkedIn](https://www.linkedin.com/in/jared-paubel) [📧 My Email](mailto:jpaubel@pm.me)
+[🌐 Website Portfolio](https://www.jpaubel.tech) [🤝 LinkedIn](https://www.linkedin.com/in/jared-paubel) [📧 My Email](mailto:jpaubel@pm.me) [Github](https://github.com/JaredP45)
 
 ---
 ## About Me
 
-A Kansan, U.S. Marine Veteran, programming aficionado, and student at Butler Community College studying for an associate's in Software Development. After community college, I plan to pursue a Bachelor's in Machine Learning & Autonomous Systems at Kansas State University. While at K-State, I will study data analysis, machine learning, and statistics, as well as gain more experience working as a part-time software engineer contractor with NetApp. On my own time, I enjoy reading books on the topics of psychology, philosophy, and technology, spending time with family, and traveling if I'm able to. I also program as a hobby, so whatever I learn gets added into my daily software development practice.
+A Kansan, U.S. Marine Veteran, programming aficionado, and student at Butler Community College studying for an associate's in Software Development. After community college, I plan to pursue a Bachelor's in Computer Science at Kansas State University. While at K-State, I will study computational theory, statistics, and data science while continuing work as a part-time software engineer contractor with NetApp. On my own time, I enjoy reading books on the topics of psychology, philosophy, and technology, spending time with family, and traveling if I'm able to. I also program as a hobby, so whatever I learn gets added into my daily software development practice.
 
 ---
 ## My Projects
@@ -22,7 +22,7 @@ My typical projects involve web-applications and back-end development. Most of m
 ---
 ## Education & Coursework
 
-### Kansas State University - BS Machine Learning & Autonomous Systems
+### Kansas State University - BS Computer Science
 
 | Info                          | Coursework              |     
 | ----------------------------- | ----------------------- |
