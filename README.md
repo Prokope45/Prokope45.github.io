@@ -1,6 +1,6 @@
 # Jared Paubel
 
-[🌐 Website Portfolio](https://www.jpaubel.tech) [🤝 LinkedIn](https://www.linkedin.com/in/jared-paubel) [📧 My Email](mailto:jpaubel@pm.me) [Github](https://github.com/JaredP45)
+[🌐 Website Portfolio](https://www.jpaubel.tech) [🤝 LinkedIn](https://www.linkedin.com/in/jared-paubel) [📧 My Email](mailto:jpaubel@pm.me) [👨‍💻 Github](https://github.com/JaredP45)
 
 ---
 ## About Me
