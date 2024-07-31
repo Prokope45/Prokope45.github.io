@@ -1,15 +1,15 @@
 # Jared Paubel
 
-[🌐 Website Portfolio](https://www.jpaubel.tech) [🤝 LinkedIn](https://www.linkedin.com/in/jared-paubel) [📧 My Email](mailto:jpaubel@pm.me) [👨‍💻 Github](https://github.com/JaredP45)
+[🌐 Website Portfolio](https://www.jpaubel.tech) [🤝 LinkedIn](https://www.linkedin.com/in/jared-paubel) [📧 My Email](mailto:jpaubel@pm.me) [👨‍💻 Github](https://github.com/Prokope45)
 
 ---
 ## About Me
 
-A Kansan, U.S. Marine Veteran, programming aficionado, and student at Butler Community College studying for an associate's in Software Development. After community college, I plan to pursue a Bachelor's in Computer Science at Kansas State University. While at K-State, I will study computational theory, statistics, and data science while continuing work as a part-time software engineer contractor with NetApp. On my own time, I enjoy reading books on the topics of psychology, philosophy, and technology, spending time with family, and traveling if I'm able to. I also program as a hobby, so whatever I learn gets added into my daily software development practice.
+A Kansan, U.S. Marine Veteran, programming aficionado, and student at Kansas State University studying Integrated Computer Science and Psychology. I've achieved an associate degree in Software Development from Butler Community College and have worked in the web development industry for over 3 years. I current intern at [Opentext](opentext.com) under the Pillr subsidiary. I am passionate about cyber security and privacy, especially with regards to the human factor. When I'm not programming, I am either traveling within the Midwest, visting friends and family, or reading about technology and psychology.
 
 ---
 ## My Projects
-My typical projects involve web-applications and back-end development. Most of my programming experience is with Python, as I have been programming with Python for about 3 years. I am currently certified as a Python Entry-Level Programmer with Python Institute, which will be superceded by the Python Associate Programmer once I complete that certification. From time to time I do program in C++ and Java depending on what project I work on.
+My typical projects involve web-applications and back-end development. Most of my programming experience is with Python, as I have been programming with Python for about 5 years.
 
 * [django-tech-blog](https://github.com/JaredP45/django-tech-blog)
 * [java-email-validator](https://github.com/JaredP45/java-email-validator)
